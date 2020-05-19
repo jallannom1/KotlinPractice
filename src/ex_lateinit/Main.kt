@@ -28,3 +28,8 @@ fun main(args:Array<String>){
     println("높이: ${rect.height}")
     println("넓이: ${rect.area}")
 }
+
+/*
+// 특정 lateinit 프로퍼티가 초기화되었는지 알려면
+if(rect::pt.isInitialized){}
+ */
