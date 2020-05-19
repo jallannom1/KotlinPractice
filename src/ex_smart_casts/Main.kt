@@ -11,5 +11,8 @@ fun main(args:Array<String>){
 fun checkNull(any: Any?){
     if(any == null){
         println("null")
+        return
     }
+
+    println(any.toString())
 }
