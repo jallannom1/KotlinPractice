@@ -13,4 +13,4 @@ fun main(args:Array<String>){
     hello()
     hello()
 }
-//
+// inline 함수는 재귀호출이 불가능하다. 함수 몸체 코드가 무한대로 늘어날 수 있기 때문.
