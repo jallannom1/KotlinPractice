@@ -9,4 +9,4 @@ fun main(args:Array<String>){
     // person.age = 20 // error
 
     println(person.isYoung)
-}d
+}
