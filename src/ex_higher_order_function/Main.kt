@@ -8,6 +8,13 @@ fun decorate(task: ()-> Unit){
     task()
     println("=== 작업 끝 ===")
 }
+/*
+만약,고차 함수의 매개변수가 여러 개이고, 함수 타입의 매개변수가 맨 마지막에 온다면,
+일반 인수들만 소괄호로 감싸고, 함수리터럴은 바깥으로 뺄 수 있다.
+
+decorator{인수 1, 인수 2, ...){...}
+ */
+
 
 fun main(args: Array<String>){
     decorate{
