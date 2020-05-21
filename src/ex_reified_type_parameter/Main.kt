@@ -1,4 +1,4 @@
-package ex_reified_type_Parameter
+package ex_reified_type_parameter
 
 /*
 // 타입 매개변수는 대부분의 상황에서 일반 타입으로 쓸 수 있지만, 특정 상황에서는 그렇지 못함
