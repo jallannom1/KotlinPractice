@@ -2,6 +2,9 @@ Kotlin 문법 정리
 ==============
 
 
+참조 : https://kotlinlang.org/docs/reference/
+---
+
 Index
 -----
 
