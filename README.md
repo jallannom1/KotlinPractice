@@ -5,7 +5,7 @@ Kotlin 문법 정리
 Index
 -----
 
-1. [Hello, Kotlin]()
+1. [Hello, Kotlin](https://github.com/jallannom1/KotlinPractice/blob/master/src/HelloKotlin.kt)
 2. [표현식]()
 3. [변수]()
 4. [리터럴 타입]()
