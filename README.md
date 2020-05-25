@@ -5,7 +5,7 @@ Kotlin 문법 정리
 Index
 -----
 
-#### Link 없는 부분은 [google](google.com) 에서 검색해서 습득하세요.
+#### Link 없는 부분은 [google](https://google.com, "google link") 에서 검색해서 습득하세요.
 
 1. [Hello, Kotlin](https://github.com/jallannom1/KotlinPractice/blob/master/src/HelloKotlin.kt)
 2. [표현식](https://github.com/jallannom1/KotlinPractice/blob/master/src/EX_Expression.kt)
