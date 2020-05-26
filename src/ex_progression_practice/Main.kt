@@ -1,5 +1,7 @@
 package ex_progression_practice
 
+// 코틀린에서 제공하는 확장 함수 이용하여 Progression Type 활용
+
 fun IntProgression.print(){
     print("first: ${this.first}, ")
     print("last: ${this.last}, ")
