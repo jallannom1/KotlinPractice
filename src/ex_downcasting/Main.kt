@@ -9,4 +9,4 @@ fun main(args: Array<String>){
 
     var person3: Student = person as Student
     person3 = person2 as Student
-}
+} 
