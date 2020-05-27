@@ -138,3 +138,4 @@ Index
 127. [Sealed 클래스](https://github.com/jallannom1/KotlinPractice/tree/master/src/ex_sealed_class)
 128. [위임된 프로퍼티](https://github.com/jallannom1/KotlinPractice/tree/master/src/ex_delegated_property)
 129. [클래스 위임](https://github.com/jallannom1/KotlinPractice/tree/master/src/ex_class_delegation)
+130. [Pair Class](https://github.com/jallannom1/KotlinPractice/tree/master/src/ex_pair)
